@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moizs\\source\\repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj": {}
+    "C:\\Users\\moizs\\Source\\Repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moizs\\source\\repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj": {
+    "C:\\Users\\moizs\\Source\\Repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moizs\\source\\repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj",
+        "projectUniqueName": "C:\\Users\\moizs\\Source\\Repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj",
         "projectName": "Design-Patterns",
-        "projectPath": "C:\\Users\\moizs\\source\\repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj",
+        "projectPath": "C:\\Users\\moizs\\Source\\Repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\Design-Patterns.csproj",
         "packagesPath": "C:\\Users\\moizs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moizs\\source\\repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\obj\\",
+        "outputPath": "C:\\Users\\moizs\\Source\\Repos\\Design-Patterns\\Design-Patterns\\Design-Patterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moizs\\AppData\\Roaming\\NuGet\\NuGet.Config",
