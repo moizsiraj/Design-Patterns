@@ -14,7 +14,7 @@ namespace Design_Patterns.Builder.Builder_Facade
             return this;
         }
 
-        public PersonJobInfoBuilder In(string city) 
+        public PersonAddressBuilder In(string city) 
         {
             Person.City = city;
             return this;
